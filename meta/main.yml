@@ -1,6 +1,7 @@
 galaxy_info:
   role_name: hostname
   author: youyo
+  company: heptagon inc.
   description: Set hostname
   license: MIT
   min_ansible_version: 2.4
